@@ -7,4 +7,4 @@ Some description!
 
 ## Subheader
 
-Watch tutorial YiuTube
+Watch tutorial YouTube
